@@ -1,0 +1,11 @@
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.0\PigLatinCapStone.exe
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.0\PigLatinCapStone.deps.json
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.0\PigLatinCapStone.runtimeconfig.json
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.0\PigLatinCapStone.runtimeconfig.dev.json
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.0\PigLatinCapStone.dll
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\bin\Debug\netcoreapp3.0\PigLatinCapStone.pdb
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.0\PigLatinCapStone.csprojAssemblyReference.cache
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.0\PigLatinCapStone.AssemblyInfoInputs.cache
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.0\PigLatinCapStone.AssemblyInfo.cs
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.0\PigLatinCapStone.dll
+C:\Users\Prophesy\source\repos\PigLatinCapStone\PigLatinCapStone\obj\Debug\netcoreapp3.0\PigLatinCapStone.pdb
